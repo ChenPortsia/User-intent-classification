@@ -82,6 +82,7 @@ In the other query "Gta kitchen remodeling" I can see that the model didn't get 
  ![image](https://github.com/ChenPortsia/User-intent-classification/assets/108417183/edf0dfe7-2efc-4647-9939-3b4d75eb21b7)
 9.	Generating OpenAI models: Applying the classification for OpenAI main models - ['gpt-4o', 'gpt-4', 'gpt-4-turbo', 'gpt-3.5-turbo'].
  ![image](https://github.com/ChenPortsia/User-intent-classification/assets/108417183/9c9a13b5-f370-4d75-8a45-aa08b0899d76)
+
 We can see the improvement of the models from "gpt-3.5-turbo" to "gpt-4o" which gets 95% of queries correctly.
 10.	Generating the labels using the chosen model for all query lists constructed in step 3. 
 
