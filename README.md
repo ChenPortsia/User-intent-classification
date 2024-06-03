@@ -107,9 +107,15 @@ Here are a sample of the chosen queries:
 
 
 Remaining Issues and further investigation:
+
 Ground truth: The labeled data is based of a list of 20 queries in one specific field that tagged manually. To locate issues and make the model more accurate, we need to use a greater amount of labeled data.
+
 Query Ambiguity: Some queries can belong to multiple intent categories, complicating the classification process. It might depend on the field and the intention of the business.
+
 Scalability: The process of shuffling and filtering queries needs to be optimized for larger datasets to ensure scalability. I tried to think of many cases, but this part needs further investigation and creative thinking. For example, when there are conjectures such as the words "and" I would like to get all combinations of queries for "bath and kitchen" and "kitchen and bath" that go together frequently.
+
 Cost: In order to make the model work more cost-efficient way, it is possible to generate a large amount of labeled data using one-shot classification using gpt-4o and train the generated training data using RNN.
+
 Summation: Form the code in a way that users can input a query and a field and generate directly a list of queries.
+
 Further steps: The next step of this project, aside from getting the best queries to invest in, is to generate content according to each of the specific search intent types.
