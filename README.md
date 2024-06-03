@@ -16,18 +16,22 @@ How can we classify search queries in Google Ads Keyword Planner to optimize the
 
 Explanation of search intent in the marketing field:
 Search intent refers to the purpose behind a user's query on a search engine. Understanding search intent is crucial for optimizing content to meet users' needs and improve search engine rankings. There are several types of search intent, primarily categorized into four main types:
+
 Informational Intent:
 -	Goal: The user is seeking information or answers to specific questions.
 -	Examples: "What is the capital of France?", "How to bake a cake", "Benefits of yoga".
 -	Content Focus: Articles, blog posts, tutorials, how-to guides, and educational content.
+  
 Navigational Intent:
 -	Goal: The user wants to go to a specific website or find a particular webpage.
 -	Examples: "Facebook login", "YouTube", "New York Times homepage".
 -	Content Focus: Homepages, login pages, specific sections of a website.
+  
 Transactional Intent:
 -	Goal: The user intends to make a purchase or complete a transaction.
 -	Examples: "Buy iPhone 13", "Subscribe to Netflix", "Cheap flights to Paris".
 -	Content Focus: Product pages, service pages, pricing information, calls to action, and e-commerce platforms.
+  
 Commercial Investigation:
 -	Goal: The user is researching products or services and considering a purchase but hasn't made a final decision.
 -	Examples: "Best laptops 2024", "Nike vs Adidas running shoes", "Top smartphones under $500".
